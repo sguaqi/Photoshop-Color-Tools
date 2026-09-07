@@ -1,0 +1,3471 @@
+{
+  "deviceId": "3141:32836:AJAZZ AK029",
+  "profile": {
+    "deviceInfo": {
+      "romSize": 0,
+      "macroSpaceSize": 37376,
+      "vid": 3141,
+      "pid": 32836,
+      "version": "1.28",
+      "sensor": 0,
+      "manufacturer": 358,
+      "product": 4364,
+      "workMode": 10,
+      "batteryLevel": 16,
+      "chargeStatus": 0,
+      "currentProfile": 0,
+      "axisInfo": 5,
+      "tftMaxFrames": 0,
+      "gifMaxFrames": 0,
+      "ledMaxFrames": 0,
+      "tftDirection": 0,
+      "rtPrecision": 0,
+      "frameVersion": 0,
+      "lightingVersion": 0,
+      "firmwareStatus": 0
+    },
+    "gameModeInfo": {
+      "gameMode": 0,
+      "fnSwitch": 0,
+      "sleepTime": 5,
+      "keyDelay": 0,
+      "reportRate": 6,
+      "systemMode": 0,
+      "tftDisplayTime": 0,
+      "topDeadZone": 0,
+      "bottomDeadZone": 0,
+      "stabilityMode": 1,
+      "autoCalibration": 1,
+      "singleKeyWakeup": 0,
+      "pushButtonMode": 0,
+      "nkroSwitch": 0,
+      "wirelessReportRate": 0
+    },
+    "keyList": [
+      [
+        {
+          "className": "",
+          "value": 0,
+          "name": "Esc",
+          "keyCode": 41,
+          "key": "Escape",
+          "userKey": {
+            "name": "截图",
+            "value": 1,
+            "page": "MACRO",
+            "param1": 1,
+            "param2": 0,
+            "param3": 0
+          }
+        },
+        {
+          "className": "",
+          "value": 17,
+          "name": "1 !",
+          "keyCode": 30,
+          "key": "Digit1",
+          "userKey": {
+            "name": "保存",
+            "value": 0,
+            "page": "MACRO",
+            "param1": 0,
+            "param2": 0,
+            "param3": 0
+          }
+        },
+        {
+          "className": "",
+          "value": 18,
+          "name": "2 @",
+          "keyCode": 31,
+          "key": "Digit2",
+          "userKey": {
+            "name": "F",
+            "value": 9,
+            "page": "KEYBOARD",
+            "jaText": "はFf",
+            "jaTextBr": "F\nは",
+            "huText": "F ["
+          }
+        },
+        {
+          "className": "",
+          "value": 19,
+          "name": "3 #",
+          "keyCode": 32,
+          "key": "Digit3",
+          "userKey": {
+            "name": "G",
+            "value": 10,
+            "page": "KEYBOARD",
+            "jaText": "きGg",
+            "jaTextBr": "G\nき",
+            "huText": "G ]"
+          }
+        },
+        {
+          "className": "",
+          "value": 20,
+          "name": "4 $",
+          "keyCode": 33,
+          "key": "Digit4",
+          "userKey": {
+            "name": "前进",
+            "page": "MACRO",
+            "param1": 3,
+            "param2": 0,
+            "param3": 0,
+            "value": 3
+          }
+        },
+        {
+          "className": "",
+          "value": 21,
+          "name": "5 %",
+          "keyCode": 34,
+          "key": "Digit5"
+        },
+        {
+          "className": "",
+          "value": 22,
+          "name": "6 ^",
+          "keyCode": 35,
+          "key": "Digit6",
+          "userKey": {
+            "name": "Caps",
+            "value": 57,
+            "page": "KEYBOARD"
+          }
+        }
+      ],
+      [
+        {
+          "className": "w-22",
+          "value": 32,
+          "name": "Tab",
+          "keyCode": 43,
+          "key": "Tab",
+          "userKey": {
+            "name": "撤回",
+            "value": 2,
+            "page": "MACRO",
+            "param1": 2,
+            "param2": 0,
+            "param3": 0
+          }
+        },
+        {
+          "className": "",
+          "value": 33,
+          "name": "Q",
+          "keyCode": 20,
+          "key": "KeyQ",
+          "userKey": {
+            "name": "F11",
+            "value": 68,
+            "page": "KEYBOARD"
+          }
+        },
+        {
+          "className": "",
+          "value": 34,
+          "name": "W",
+          "keyCode": 26,
+          "key": "KeyW",
+          "userKey": {
+            "name": "F9",
+            "value": 66,
+            "page": "KEYBOARD"
+          }
+        },
+        {
+          "className": "",
+          "value": 35,
+          "name": "E",
+          "keyCode": 8,
+          "key": "KeyE"
+        },
+        {
+          "className": "",
+          "value": 36,
+          "name": "R",
+          "keyCode": 21,
+          "key": "KeyR",
+          "userKey": {
+            "name": "B",
+            "value": 5,
+            "page": "KEYBOARD",
+            "jaText": "こBb",
+            "jaTextBr": "B\nこ",
+            "huText": "B {"
+          }
+        },
+        {
+          "className": "mr-auto",
+          "value": 37,
+          "name": "T",
+          "keyCode": 23,
+          "key": "KeyT",
+          "userKey": {
+            "name": "L",
+            "value": 15,
+            "page": "KEYBOARD",
+            "jaText": "りLl",
+            "jaTextBr": "L\nり",
+            "huText": "L Ł"
+          }
+        }
+      ],
+      [
+        {
+          "className": "w-27",
+          "value": 48,
+          "name": "Caps",
+          "keyCode": 57,
+          "key": "CapsLock",
+          "userKey": {
+            "name": "F10",
+            "value": 67,
+            "page": "KEYBOARD"
+          }
+        },
+        {
+          "className": "",
+          "value": 49,
+          "name": "A",
+          "keyCode": 4,
+          "key": "KeyA",
+          "userKey": {
+            "name": "新建图层",
+            "page": "MACRO",
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "value": 4
+          }
+        },
+        {
+          "className": "",
+          "value": 50,
+          "name": "S",
+          "keyCode": 22,
+          "key": "KeyS",
+          "userKey": {
+            "name": "鼠标右键",
+            "value": 2,
+            "param1": 1,
+            "text": "mouse_text3",
+            "page": "MOUSE"
+          }
+        },
+        {
+          "className": "",
+          "value": 51,
+          "name": "D",
+          "keyCode": 7,
+          "key": "KeyD",
+          "userKey": {
+            "name": "复制图层",
+            "page": "MACRO",
+            "param1": 5,
+            "param2": 0,
+            "param3": 0,
+            "value": 5
+          }
+        },
+        {
+          "className": "",
+          "value": 52,
+          "name": "F",
+          "keyCode": 9,
+          "key": "KeyF",
+          "userKey": {
+            "name": "R",
+            "value": 21,
+            "page": "KEYBOARD",
+            "jaText": "すRr",
+            "jaTextBr": "R\nす"
+          }
+        },
+        {
+          "className": "mr-auto",
+          "value": 53,
+          "name": "G",
+          "keyCode": 10,
+          "key": "KeyG",
+          "userKey": {
+            "name": "W",
+            "value": 26,
+            "page": "KEYBOARD",
+            "ptText": "W ?",
+            "jaText": "てWw",
+            "huText": "W I",
+            "frText": "Z",
+            "jaTextBr": "W\nて"
+          }
+        }
+      ],
+      [
+        {
+          "className": "w-34",
+          "value": 64,
+          "name": "L-Shift",
+          "keyCode": 225,
+          "key": "ShiftLeft"
+        },
+        {
+          "className": "",
+          "value": 65,
+          "name": "Z",
+          "keyCode": 29,
+          "key": "KeyZ"
+        },
+        {
+          "className": "",
+          "value": 66,
+          "name": "X",
+          "keyCode": 27,
+          "key": "KeyX"
+        },
+        {
+          "className": "",
+          "value": 67,
+          "name": "C",
+          "keyCode": 6,
+          "key": "KeyC"
+        },
+        {
+          "className": "",
+          "value": 68,
+          "name": "V",
+          "keyCode": 25,
+          "key": "KeyV",
+          "userKey": {
+            "name": "Enter",
+            "value": 40,
+            "page": "KEYBOARD"
+          }
+        },
+        {
+          "className": "",
+          "value": 69,
+          "name": "B",
+          "keyCode": 5,
+          "key": "KeyB",
+          "userKey": {
+            "name": "T",
+            "value": 23,
+            "page": "KEYBOARD",
+            "jaText": "かTt",
+            "jaTextBr": "T\nか"
+          }
+        }
+      ],
+      [
+        {
+          "className": "mr-5",
+          "value": 80,
+          "name": "L-Ctrl",
+          "keyCode": 224,
+          "key": "ControlLeft"
+        },
+        {
+          "className": "",
+          "value": 85,
+          "name": "Fn",
+          "keyCode": 175,
+          "key": "-1"
+        },
+        {
+          "className": "",
+          "value": 82,
+          "name": "L-Alt",
+          "keyCode": 226,
+          "key": "AltLeft"
+        },
+        {
+          "className": "flex-1",
+          "value": 83,
+          "name": "Spacebar",
+          "keyCode": 44,
+          "key": "Space"
+        }
+      ]
+    ],
+    "ledEffect": {
+      "mode": 11,
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "driverSetting": 0,
+      "secondaryRed": 0,
+      "secondaryGreen": 0,
+      "secondaryBlue": 0,
+      "colorMode": 1,
+      "brightness": 4,
+      "speed": 2,
+      "direction": 0,
+      "effectModeType": 0,
+      "checkCodeL": 0,
+      "checkCodeH": 0
+    },
+    "customLedData": [
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      {
+        "ledId": 0,
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      }
+    ],
+    "macroDataList": [
+      {
+        "macroId": 0,
+        "name": "保存",
+        "actions": [
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 224
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 22
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 22
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 224
+          }
+        ]
+      },
+      {
+        "macroId": 1,
+        "name": "截图",
+        "actions": [
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 227
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 225
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 22
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 227
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 225
+          },
+          {
+            "actionType": 3,
+            "delay": 0,
+            "isPress": false,
+            "keyCode": 22
+          }
+        ]
+      },
+      {
+        "macroId": 2,
+        "name": "撤回",
+        "actions": [
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 226
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 224
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 29
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 226
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 224
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 29
+          }
+        ]
+      },
+      {
+        "macroId": 3,
+        "name": "前进",
+        "actions": [
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 224
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 225
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 29
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 225
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 29
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 224
+          }
+        ]
+      },
+      {
+        "macroId": 4,
+        "name": "新建图层",
+        "actions": [
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 224
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 225
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 17
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 224
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 225
+          },
+          {
+            "actionType": 3,
+            "delay": 0,
+            "isPress": false,
+            "keyCode": 17
+          }
+        ]
+      },
+      {
+        "macroId": 5,
+        "name": "复制图层",
+        "actions": [
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 224
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": true,
+            "keyCode": 13
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 224
+          },
+          {
+            "actionType": 3,
+            "delay": 5,
+            "isPress": false,
+            "keyCode": 13
+          }
+        ]
+      }
+    ],
+    "magneticAxisRT": [
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0,
+        "pressRT": 0,
+        "releaseRT": 0
+      }
+    ],
+    "magneticAxisRTConfig": {
+      "currentModeName": "custom",
+      "customModeRT": [
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0,
+          "pressRT": 0,
+          "releaseRT": 0
+        }
+      ]
+    },
+    "magneticAxisDKS": [],
+    "wheelKeys": [],
+    "profileName": "profile"
+  }
+}
